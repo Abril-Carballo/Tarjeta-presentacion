@@ -12,7 +12,7 @@ body {
 
   align-items: center;
   justify-content: space-between;
-  padding: 40px;
+  padding: 20px;
 }
 
 .perfil h1 {
@@ -26,7 +26,6 @@ hr {
   margin-top: 10px;
   background-color: rgb(160, 8, 8);
 }
-
 
 .foto {
   height: 40vh;
@@ -44,4 +43,22 @@ hr {
   border-radius: 10px;
 }
 
+.saludo {
+  background-color: white;
+  width: 700px;
+  border-radius: 10px;
+  text-align: justify;
+  padding: 20px;
+  margin: 10px;
+
+}
+
+.datos {
+  background-color: white;
+  width: 700px;
+  border-radius: 10px;
+  text-align: justify;
+  padding: 20px;
+  margin: 10px; 
+}
 
