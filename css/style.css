@@ -8,8 +8,30 @@ body {
   background-color: rgb(245, 235, 236);
 }
 
-header h1{
+.perfil {
+
+  align-items: center;
+  justify-content: space-between;
   padding: 40px;
-  background-image: url(../img/abril.jpg);
-  background-size: 40px;
 }
+
+.perfil h1 {
+  margin: 0;
+  color: rgb(160, 8, 8);
+}
+
+hr {
+  border: none;
+  height: 2px;
+  background-color: rgb(160, 8, 8);
+  margin: 
+}
+
+
+.foto {
+  height: 40vh;
+  border-radius: 10px; 
+}
+
+
+
