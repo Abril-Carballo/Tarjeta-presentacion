@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: rgb(245, 235, 236);
+}
+
+header h1{
+  padding: 40px;
+  background-image: url(../img/abril.jpg);
+  background-size: 40px;
+}
