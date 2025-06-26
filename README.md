@@ -8,3 +8,4 @@ Este proyecto es una tarjeta de presentación digital desarrollada con **HTML** 
 * CSS
 * Google Fonts
 * Efectos con `:hover`
+* Links a mis redes y teléfono
